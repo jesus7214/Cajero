@@ -1,0 +1,65 @@
+body {
+  padding: 30px;
+  background-image: url(img/fondo.jpg);
+}
+.consultaSaldo {
+  margin-top: -10px;
+}
+.consultaSaldo1 {
+  margin-top: 50px;
+  font-size: 18px;
+}
+#bot2 {
+  margin-bottom: 30px;
+}
+.consultaSaldo,
+#ingresarSaldo,
+#retirarSaldo {
+  margin-top: 25px;
+}
+.botones {
+  text-align: center;
+  background-color: rgb(228, 124, 5);
+  width: 300px;
+  border-radius: 5px;
+  padding: 20px;
+  margin: auto;
+}
+
+#ini,
+#p1,
+#p2,
+#p3,
+.sigui .sig {
+  font-size: 16px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+#ini:hover,
+#p1:hover,
+#p2:hover,
+#p3:hover {
+  cursor: pointer;
+  background-color: rgb(153, 188, 181);
+}
+
+.sigui .sig:hover {
+  cursor: pointer;
+  background-color: rgb(153, 188, 181);
+}
+
+footer {
+  bottom: 0;
+  position: absolute;
+  color: rgb(6, 44, 235);
+  font-size: 20px;
+}
+.powered {
+  background-color: rgb(139, 180, 199);
+  width: 450px;
+  text-align: center;
+}
+hr {
+  width: 1280px;
+}
